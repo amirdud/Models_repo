@@ -1,2 +1,2 @@
-# The_model_thinker_repo
-Simulations of models from "the model thinker" book by Scott E. Page
+# Models_Repo
+Repository for different simulations, models and toy examples in probability, data science, machine learning and dynamical systems. 
