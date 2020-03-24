@@ -1,2 +1,3 @@
 # Models_repo
-Repository for different simulations, models and toy examples in probability, data science, machine learning and dynamical systems. 
+Repository for different simulations, models and toy examples in probability, data science, machine learning and dynamical systems.
+All are written in python.
