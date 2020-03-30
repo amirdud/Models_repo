@@ -3,3 +3,4 @@ Ongoingly updated Repository for different simulations, models and toy examples 
 
 Contents:
 1. The preferential attachment model for generating a power-law distribution.
+2. The self-organized criticality model for generating a power-law distribution.
